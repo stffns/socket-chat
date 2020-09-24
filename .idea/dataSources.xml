@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="@10.100.77.39" uuid="77bd6712-1564-4415-960e-54ebb64f0bd3">
+      <driver-ref>oracle</driver-ref>
+      <synchronize>true</synchronize>
+      <auto-commit>false</auto-commit>
+      <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
+      <jdbc-url>jdbc:oracle:thin:@10.100.77.39:1521:GODIGO3</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="10.100.77.39:1521" read-only="true" uuid="89e95d55-a678-483d-b451-c9450f3f9ad0">
+      <driver-ref>oracle</driver-ref>
+      <synchronize>true</synchronize>
+      <auto-commit>false</auto-commit>
+      <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
+      <jdbc-url>jdbc:oracle:thin:@//10.100.77.39:1521/GODIGO3</jdbc-url>
+    </data-source>
+  </component>
+</project>

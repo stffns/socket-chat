@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a0d3a094-d8c9-4b70-81a3-1ffa06e4607d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hs2WKgrYddS5ux3DHlTKxOZilB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="oracle" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="proofread" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2020.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a0d3a094-d8c9-4b70-81a3-1ffa06e4607d" name="Default Changelist" comment="" />
+      <created>1600785509665</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600785509665</updated>
+      <workItem from="1600785510699" duration="9267000" />
+      <workItem from="1600883380629" duration="11834000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="428" y="193" key="#Notifications" timestamp="1600789351139">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="428" y="193" key="#Notifications/0.0.1366.738@0.0.1366.738" timestamp="1600789351139" />
+    <state x="275" y="27" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600890952518">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="275" y="27" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.738@0.0.1366.738" timestamp="1600890952518" />
+    <state width="1032" height="310" key="GridCell.Tab.0.bottom" timestamp="1600894204832">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1032" height="310" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1600894204832" />
+    <state width="1032" height="310" key="GridCell.Tab.0.center" timestamp="1600894204832">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1032" height="310" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1600894204832" />
+    <state width="1032" height="310" key="GridCell.Tab.0.left" timestamp="1600894204832">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1032" height="310" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1600894204832" />
+    <state width="1032" height="310" key="GridCell.Tab.0.right" timestamp="1600894204832">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1032" height="310" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1600894204832" />
+    <state x="184" y="14" key="SettingsEditor" timestamp="1600979005892">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="184" y="14" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1600979005892" />
+  </component>
+</project>
