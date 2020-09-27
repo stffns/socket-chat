@@ -15,5 +15,12 @@
       <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
       <jdbc-url>jdbc:oracle:thin:@//10.100.77.39:1521/GODIGO3</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="@localhost" uuid="d7a84627-0fc5-4d36-9e96-6227d31aa0b3">
+      <driver-ref>oracle</driver-ref>
+      <synchronize>true</synchronize>
+      <auto-commit>false</auto-commit>
+      <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
+      <jdbc-url>jdbc:oracle:thin:@localhost:1521:XE</jdbc-url>
+    </data-source>
   </component>
 </project>
